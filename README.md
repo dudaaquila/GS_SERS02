@@ -8,7 +8,7 @@ Analisar dados simulados de consumo energético para identificar desperdícios e
 - `analise_energia.py` — script Python para gerar, analisar e visualizar dados simulados.
 - `consumo_diario.png` — gráfico do consumo médio diário (gerado automaticamente).
 
-## ⚙️ Execução
+## Execução
 1. Instale as dependências:
    ```bash
    pip install pandas numpy matplotlib
